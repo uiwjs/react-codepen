@@ -10,7 +10,7 @@ React Codepen
 [![Release](https://img.shields.io/github/release/uiwjs/react-codepen)](https://github.com/uiwjs/react-codepen/releases)
 [![npm version](https://img.shields.io/npm/v/@uiw/react-codepen.svg)](https://www.npmjs.com/package/@uiw/react-codepen)
 
-A React component is provided that allows you to programmatically generate codepen projects from code samples on the fly.
+A React component is provided that allows you to programmatically generate [codepen](https://codepen.io/) projects from code samples on the fly.
 
 ## Install
 
