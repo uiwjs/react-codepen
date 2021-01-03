@@ -93,6 +93,11 @@ npm run build
 The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
+### Related
+
+- [`@uiw/react-stackblitz`](https://github.com/uiwjs/react-stackblitz)
+- [`@uiw/react-codesandbox`](https://github.com/uiwjs/react-codesandbox)
+
 ### License
 
 Licensed under the MIT License.
