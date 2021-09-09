@@ -1,5 +1,7 @@
 node_modules
 lib
+cjs
+esm
 build
 npm-debug.log*
 package-lock.json
