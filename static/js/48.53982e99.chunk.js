@@ -1,2 +1,0 @@
-(this["webpackJsonp@uiw/react-codepen"]=this["webpackJsonp@uiw/react-codepen"]||[]).push([[48],{104:function(n,e){Prism.languages.bnf={string:{pattern:/"[^\r\n"]*"|'[^\r\n']*'/},definition:{pattern:/<[^<>\r\n\t]+>(?=\s*::=)/,alias:["rule","keyword"],inside:{punctuation:/^<|>$/}},rule:{pattern:/<[^<>\r\n\t]+>/,inside:{punctuation:/^<|>$/}},operator:/::=|[|()[\]{}*+?]|\.{3}/},Prism.languages.rbnf=Prism.languages.bnf}}]);
-//# sourceMappingURL=48.53982e99.chunk.js.map

@@ -1,2 +1,0 @@
-(this["webpackJsonp@uiw/react-codepen"]=this["webpackJsonp@uiw/react-codepen"]||[]).push([[422],{478:function(e,s){var a=Prism.util.clone(Prism.languages.typescript);Prism.languages.tsx=Prism.languages.extend("jsx",a)}}]);
-//# sourceMappingURL=422.ee9e8340.chunk.js.map

@@ -1,2 +1,0 @@
-(this["webpackJsonp@uiw/react-codepen"]=this["webpackJsonp@uiw/react-codepen"]||[]).push([[412],{468:function(e,t){Prism.languages["t4-vb"]=Prism.languages["t4-templating"].createT4("vbnet")}}]);
-//# sourceMappingURL=412.0c40500e.chunk.js.map
