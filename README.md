@@ -4,11 +4,8 @@ React Codepen
 <!--dividing-->
 
 [![Build & Deploy](https://github.com/uiwjs/react-codepen/workflows/Build%20&%20Deploy/badge.svg)](https://github.com/uiwjs/react-codepen/actions)
-[![Issues](https://img.shields.io/github/issues/uiwjs/react-codepen.svg)](https://github.com/uiwjs/react-codepen/issues)
-[![Forks](https://img.shields.io/github/forks/uiwjs/react-codepen.svg)](https://github.com/uiwjs/react-codepen/network)
-[![Stars](https://img.shields.io/github/stars/uiwjs/react-codepen.svg)](https://github.com/uiwjs/react-codepen/stargazers)
-[![Release](https://img.shields.io/github/release/uiwjs/react-codepen)](https://github.com/uiwjs/react-codepen/releases)
 [![npm version](https://img.shields.io/npm/v/@uiw/react-codepen.svg)](https://www.npmjs.com/package/@uiw/react-codepen)
+[![](https://img.shields.io/badge/Open%20in-unpkg-blue)](https://uiwjs.github.io/npm-unpkg/#/pkg/@uiw/react-codepen/file/README.md)
 
 A React component is provided that allows you to programmatically generate [codepen](https://codepen.io/) projects from code samples on the fly.
 
