@@ -41,14 +41,12 @@ jobs:
         filter: '[R|r]elease[d]\s+[v|V]\d(\.\d+){0,2}'
 
     - name: Create Release
-      id: create_release
-      uses: actions/create-release@latest
+      uses: ncipollo/release-action@v1
       if: steps.create_tag.outputs.successful
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: ${{ steps.create_tag.outputs.version }}
-        release_name: ${{ steps.create_tag.outputs.version }}
+        token: ${{ secrets.GITHUB_TOKEN }}
+        name: ${{ steps.create_tag.outputs.version }}
+        tag: ${{ steps.create_tag.outputs.version }}
         body: |
           [![](https://img.shields.io/badge/Open%20in-unpkg-blue)](https://uiwjs.github.io/npm-unpkg/#/pkg/@uiw/react-codepen@${{ steps.create_tag.outputs.versionNumber }}/file/README.md)
 
@@ -59,8 +57,6 @@ jobs:
           ${{ steps.changelog.outputs.compareurl }}
           
           ${{ steps.changelog.outputs.changelog }}
-        draft: false
-        prerelease: false
 
     - run: git status
     - run: npm install @jsdevtools/npm-publish -g
