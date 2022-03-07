@@ -3,7 +3,7 @@ React Codepen
 
 <!--dividing-->
 
-[![Build & Deploy](https://github.com/uiwjs/react-codepen/workflows/Build%20&%20Deploy/badge.svg)](https://github.com/uiwjs/react-codepen/actions)
+[![Build & Deploy](https://github.com/uiwjs/react-codepen/actions/workflows/ci.yml/badge.svg)](https://github.com/uiwjs/react-codepen/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@uiw/react-codepen.svg)](https://www.npmjs.com/package/@uiw/react-codepen)
 [![](https://img.shields.io/badge/Open%20in-unpkg-blue)](https://uiwjs.github.io/npm-unpkg/#/pkg/@uiw/react-codepen/file/README.md)
 
@@ -95,6 +95,16 @@ Your app is ready to be deployed!
 - [`@uiw/react-stackblitz`](https://github.com/uiwjs/react-stackblitz)
 - [`@uiw/react-codesandbox`](https://github.com/uiwjs/react-codesandbox)
 
-### License
+## Contributors
+
+As always, thanks to our amazing contributors!
+
+<a href="https://github.com/uiwjs/react-codepen/graphs/contributors">
+  <img src="https://uiwjs.github.io/react-codepen/CONTRIBUTORS.svg" />
+</a>
+
+Made with [github-action-contributors](https://github.com/jaywcjlove/github-action-contributors).
+
+## License
 
 Licensed under the MIT License.
