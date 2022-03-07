@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-codepen/static/css/main.aff640d7.css",
-    "main.js": "/react-codepen/static/js/main.103c9f50.js",
-    "refractor-prismjs-vendor.js": "/react-codepen/static/js/refractor-prismjs-vendor.fbcd84c3.js",
+    "main.css": "/react-codepen/static/css/main.19312868.css",
+    "main.js": "/react-codepen/static/js/main.e9db55ba.js",
+    "refractor-prismjs-vendor.js": "/react-codepen/static/js/refractor-prismjs-vendor.73234eed.js",
     "parse5-vendor.js": "/react-codepen/static/js/parse5-vendor.af5e4c9c.js",
     "react-vendor.js": "/react-codepen/static/js/react-vendor.fd874006.js",
     "static/media/logo.svg": "/react-codepen/static/media/logo.3931a054f5ef8356122965d973d55570.svg",
     "index.html": "/react-codepen/index.html",
-    "main.aff640d7.css.map": "/react-codepen/static/css/main.aff640d7.css.map",
-    "main.103c9f50.js.map": "/react-codepen/static/js/main.103c9f50.js.map",
-    "refractor-prismjs-vendor.fbcd84c3.js.map": "/react-codepen/static/js/refractor-prismjs-vendor.fbcd84c3.js.map",
+    "main.19312868.css.map": "/react-codepen/static/css/main.19312868.css.map",
+    "main.e9db55ba.js.map": "/react-codepen/static/js/main.e9db55ba.js.map",
+    "refractor-prismjs-vendor.73234eed.js.map": "/react-codepen/static/js/refractor-prismjs-vendor.73234eed.js.map",
     "parse5-vendor.af5e4c9c.js.map": "/react-codepen/static/js/parse5-vendor.af5e4c9c.js.map",
     "react-vendor.fd874006.js.map": "/react-codepen/static/js/react-vendor.fd874006.js.map"
   },
   "entrypoints": [
-    "static/js/refractor-prismjs-vendor.fbcd84c3.js",
+    "static/js/refractor-prismjs-vendor.73234eed.js",
     "static/js/parse5-vendor.af5e4c9c.js",
     "static/js/react-vendor.fd874006.js",
-    "static/css/main.aff640d7.css",
-    "static/js/main.103c9f50.js"
+    "static/css/main.19312868.css",
+    "static/js/main.e9db55ba.js"
   ]
 }
