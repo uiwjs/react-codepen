@@ -37,7 +37,7 @@
     "@uiw/react-markdown-preview": "~3.5.1",
     "react": "~18.2.0",
     "react-dom": "~18.2.0",
-    "kkt": "~7.1.5",
+    "kkt": "~7.4.0",
     "tsbb": "~3.7.2"
   },
   "eslintConfig": {
