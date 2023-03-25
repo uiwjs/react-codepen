@@ -21,6 +21,9 @@ const App: React.FC = () => {
       <Markdown
         style={{ paddingTop: 25, maxWidth: 680, margin: '0 auto' }}
         source={MDStr.replace(/([\s\S]*)<!--dividing-->/, '')}
+        wrapperElement={{
+          "data-color-mode": "light"
+        }}
       />
     </div>
   );
