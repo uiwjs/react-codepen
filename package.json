@@ -9,8 +9,8 @@
     "prepare": "npm run build",
     "doc": "kkt build --app-src ./website",
     "start": "kkt start --app-src ./website",
-    "watch": "tsbb watch src/*.tsx --useBabel",
-    "build": "tsbb build src/*.tsx --useBabel"
+    "watch": "tsbb watch src/*.tsx --useBabel --cjs cjs",
+    "build": "tsbb build src/*.tsx --useBabel --cjs cjs"
   },
   "repository": {
     "type": "git",
