@@ -9,8 +9,8 @@
     "prepare": "npm run build",
     "doc": "kkt build --app-src ./website",
     "start": "kkt start --app-src ./website",
-    "watch": "tsbb watch",
-    "build": "tsbb build"
+    "watch": "tsbb watch src/*.tsx --useBabel",
+    "build": "tsbb build src/*.tsx --useBabel"
   },
   "repository": {
     "type": "git",
@@ -38,7 +38,7 @@
     "react": "~18.2.0",
     "react-dom": "~18.2.0",
     "kkt": "~7.4.9",
-    "tsbb": "~3.7.2"
+    "tsbb": "^4.0.1"
   },
   "eslintConfig": {
     "extends": [
